@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://nuxo.io"><img src="./banner.svg" width="100%" alt="Nuxo. Get paid in Bitcoin, USDT, Ethereum, Solana, USDC and more, on a departure board that turns through the coins Nuxo takes"></a>
+  <a href="https://nuxo.io"><img src="https://raw.githubusercontent.com/nuxo-io/.github/main/profile/banner.svg?v=2" width="100%" alt="Nuxo. Get paid in Bitcoin, USDT, Ethereum, Solana, USDC and more, on a departure board that turns through the coins Nuxo takes"></a>
 </p>
 
 <p align="center">
@@ -8,17 +8,17 @@
 </p>
 
 <p align="center">
-  <a href="https://nuxo.io"><img src="./btn-website.svg" height="36" alt="nuxo.io"></a>
-  <a href="https://nuxo.io/developers/webhooks"><img src="./btn-webhooks.svg" height="36" alt="Webhooks"></a>
-  <a href="https://nuxo.io/developers/sdks"><img src="./btn-sdks.svg" height="36" alt="SDKs"></a>
-  <a href="https://nuxo.io/developers/sandbox"><img src="./btn-sandbox.svg" height="36" alt="Sandbox"></a>
+  <a href="https://nuxo.io"><img src="https://raw.githubusercontent.com/nuxo-io/.github/main/profile/btn-website.svg?v=2" height="36" alt="nuxo.io"></a>
+  <a href="https://nuxo.io/developers/webhooks"><img src="https://raw.githubusercontent.com/nuxo-io/.github/main/profile/btn-webhooks.svg?v=2" height="36" alt="Webhooks"></a>
+  <a href="https://nuxo.io/developers/sdks"><img src="https://raw.githubusercontent.com/nuxo-io/.github/main/profile/btn-sdks.svg?v=2" height="36" alt="SDKs"></a>
+  <a href="https://nuxo.io/developers/sandbox"><img src="https://raw.githubusercontent.com/nuxo-io/.github/main/profile/btn-sandbox.svg?v=2" height="36" alt="Sandbox"></a>
 </p>
 
 <br>
 
 ### Four ways to take a payment
 
-<img src="./ways.svg" width="100%" alt="A payment link, an invoice, a checkout in a browser window with a lime pay button, and a register on a stand, side by side on one counter">
+<img src="https://raw.githubusercontent.com/nuxo-io/.github/main/profile/ways.svg?v=2" width="100%" alt="A payment link, an invoice, a checkout in a browser window with a lime pay button, and a register on a stand, side by side on one counter">
 
 Send a [payment link](https://nuxo.io/solutions/payment-links), bill with an [invoice](https://nuxo.io/solutions/invoices),
 add a [checkout](https://nuxo.io/solutions/hosted-checkouts) to your site, or turn any tablet into a
@@ -27,7 +27,7 @@ no monthly fee ([pricing](https://nuxo.io/pricing)).
 
 ### For developers
 
-<img src="./developers.svg" width="100%" alt="A code window creating a payment of 49.99 USD in USDT on Solana with one request, then a signed payment.paid webhook arriving">
+<img src="https://raw.githubusercontent.com/nuxo-io/.github/main/profile/developers.svg?v=2" width="100%" alt="A code window creating a payment of 49.99 USD in USDT on Solana with one request, then a signed payment.paid webhook arriving">
 
 One API, [signed webhooks](https://nuxo.io/developers/webhooks) you can trust, [SDKs](https://nuxo.io/developers/sdks)
 and a [sandbox](https://nuxo.io/developers/sandbox) where nothing touches live money.
