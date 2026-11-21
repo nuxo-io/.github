@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://nuxo.io"><img src="https://raw.githubusercontent.com/nuxo-io/.github/main/profile/banner.svg?v=2" width="100%" alt="Nuxo. Get paid in Bitcoin, USDT, Ethereum, Solana, USDC and more, on a departure board that turns through the coins Nuxo takes"></a>
+  <a href="https://nuxo.io"><img src="https://raw.githubusercontent.com/nuxo-io/.github/main/profile/banner.svg?v=3" width="100%" alt="Nuxo. Get paid in Bitcoin, USDT, Ethereum, Solana, USDC and more, on a departure board that turns through the coins Nuxo takes"></a>
 </p>
 
 <p align="center">
